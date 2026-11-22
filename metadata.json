@@ -1,0 +1,8 @@
+{
+  "name": "صيدليتي — إدارة المخازن والفواتير",
+  "description": "نظام متكامل لإدارة مخازن الأدوية والمستلزمات الطبية، تتبع الصلاحيات بنظام FEFO، فواتير الوارد، أذون الصرف في Word، ومرتجعات العملاء، والتصدير إلى Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
